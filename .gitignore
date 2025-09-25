@@ -1,0 +1,26 @@
+# Environment files
+.env
+*.env
+
+# Wallet / credentials
+Wallet/
+*.key
+*.pem
+*.crt
+*.p12
+*.jks
+*.sso
+*.properties
+*.ora
+
+# System / temp
+__pycache__/
+*.log
+*.tmp
+*.bak
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
